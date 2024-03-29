@@ -11,7 +11,8 @@ Meet KittyAssist, your go-to for optimized macro performance in Da Hood. With un
 # Revenge
 
 While still under development, Revenge promises exciting enhancements for your Da Hood adventures. Look forward to features like "Linear Aim", "No Shaky Aim", and more to elevate your gameplay. Stay tuned for updates as we continue to refine and expand the Revenge experience.
-![w i p](https://github.com/istutterwhenispeak/Documations/assets/164241690/6e06c30c-28a6-420e-8059-846e8de5aff3)
+![REVENGEWIP](https://github.com/istutterwhenispeak/Documations/assets/164241690/d0fddd12-c753-456b-bbe0-0ea7ea8dc025)
+
 
 
 
